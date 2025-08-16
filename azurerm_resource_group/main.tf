@@ -18,4 +18,5 @@ resource "azurerm_resource_group" "rg_todo1" {
     name     = "hero2"
     location = "West Europe"
 
+
 }
