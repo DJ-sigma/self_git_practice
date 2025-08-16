@@ -1,2 +1,2 @@
 # self_git_practice
-pracice
+Saumya me Sohit & Praddep we all are practicing GIT today.
